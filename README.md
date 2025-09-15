@@ -1,6 +1,3 @@
-Awesome—here’s a clean, drop-in README for your repo that (1) clearly credits Conv-Adapter and its authors and (2) spells out what you changed.
-
----
 
 # HCC-Adapter: Hartley–Cosine Adapters for ConvNets
 
